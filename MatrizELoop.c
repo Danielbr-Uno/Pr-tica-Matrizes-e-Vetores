@@ -14,7 +14,7 @@ int main(){
         for(int j = 0; j < COLUNAS; j++)
         {
             soma++;
-            printf(" %d ", matriz[LINHAS][COLUNAS] = soma);
+            printf(" %2d ", matriz[LINHAS][COLUNAS] = soma);
         }
         printf("\n");
     }
